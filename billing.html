@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Billing Page - Pop Rock Crystal</title>
+    <link rel="stylesheet" href="billing.css">
+    <script src="billing.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <h1>Pop Rock Crystal</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+        <div class="basket" onclick="window.location.href='billing.html'">
+            <img src="images/ion_basket.png" alt="Basket Icon">
+            <span id="basket-count">0</span>
+        </div>
+    </header>
+
+    <div class="billing-section">
+        <h1>Billing Summary</h1>
+        <div class="billing-details">
+            <!-- Here you will display the items in the basket -->
+            <table>
+                <thead>
+                    <tr>
+                        <th>Product</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody id="billing-items">
+
+                </tbody>
+            </table>
+        </div>
+        <div class="total">
+            <h2>Total: $<span id="total-price">0</span></h2>
+        </div>
+        <button id="checkout-button" onclick="window.location.href='index.html'">Checkout</button>
+    </div>
+</body>
+
+</html>

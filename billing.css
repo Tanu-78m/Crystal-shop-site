@@ -1,0 +1,91 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4; /* Light gray background */
+}
+
+/* Header Styles */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #3f51b5; /* Blue background */
+  color: white;
+  padding: 10px 20px;
+}
+
+.logo h1 {
+  font-size: 24px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: #cddc39; /* Light green color on hover */
+}
+
+/* Billing Section Styles */
+.billing-section {
+  padding: 20px;
+  text-align: center;
+}
+
+.billing-section h1 {
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+
+.billing-details table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.billing-details th,
+.billing-details td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.billing-details th {
+  background-color: #f2f2f2; /* Light background for header */
+}
+
+.total {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Button Styles */
+#checkout-button {
+  background-color: #3f51b5; /* Blue background */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#checkout-button:hover {
+  background-color: #303f9f; /* Darker blue on hover */
+}

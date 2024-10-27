@@ -1,0 +1,1933 @@
+/* Crystal */
+
+position: relative;
+width: 1440px;
+height: 3153px;
+
+/* фон */
+background: #f5f6f8;
+
+/* Frame 5 */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+/* Rectangle 227 */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 1440px;
+top: 900px;
+
+background: linear-gradient(112.45deg, #8481ff 0%, #2ef1fd 48.5%, #0430a1 100%);
+transform: rotate(180deg);
+
+/* Vector 1 */
+
+position: absolute;
+width: 1440px;
+height: 751px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(78.73deg, #01f0ff 5.11%, #0066ff 96.86%);
+
+/* Vector 2 */
+
+position: absolute;
+width: 790.6px;
+height: 626.57px;
+left: 950.06px;
+top: -67.31px;
+
+background: linear-gradient(180deg, #fa7ffd 0%, #e33131 100%);
+transform: matrix(-0.51, 0.86, -0.87, -0.49, 0, 0);
+
+/* Rectangle 226 */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 255, 255, 0.4);
+backdrop-filter: blur(125px);
+/* Note: backdrop-filter has minimal browser support */
+
+/* Frame 6 */
+
+position: absolute;
+width: 1440px;
+height: 1169px;
+left: 0px;
+top: 1984px;
+
+/* Rectangle 227 */
+
+position: absolute;
+width: 1440px;
+height: 1090px;
+left: 1440px;
+top: 1169px;
+
+background: linear-gradient(112.45deg, #8481ff 0%, #2ef1fd 48.5%, #0430a1 100%);
+transform: rotate(180deg);
+
+/* Vector 1 */
+
+position: absolute;
+width: 1440px;
+height: 910px;
+left: 0px;
+top: 79px;
+
+background: linear-gradient(78.73deg, #01f0ff 5.11%, #0066ff 96.86%);
+
+/* Vector 2 */
+
+position: absolute;
+width: 916.95px;
+height: 660.69px;
+left: 950.06px;
+top: -2.55px;
+
+background: linear-gradient(180deg, #fa7ffd 0%, #e33131 100%);
+transform: matrix(-0.44, 0.9, -0.83, -0.56, 0, 0);
+
+/* Rectangle 226 */
+
+position: absolute;
+width: 1440px;
+height: 1090px;
+left: 0px;
+top: 79px;
+
+background: rgba(255, 255, 255, 0.4);
+backdrop-filter: blur(125px);
+/* Note: backdrop-filter has minimal browser support */
+
+/* Vector 1 */
+
+position: absolute;
+width: 1440px;
+height: 603.5px;
+left: 0px;
+top: 296.5px;
+
+background: #ffffff;
+
+/* Vector 2 */
+
+position: absolute;
+width: 1440px;
+height: 900px;
+left: 1440px;
+top: 2884px;
+
+background: #ffffff;
+transform: rotate(180deg);
+
+/* Group 103 */
+
+position: absolute;
+width: 121px;
+height: 38px;
+left: 659px;
+top: 812px;
+
+/* sroll down */
+
+position: absolute;
+width: 77px;
+height: 24px;
+left: 703px;
+top: 819px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #317189;
+
+/* Group 102 */
+
+position: absolute;
+width: 28px;
+height: 38px;
+left: 659px;
+top: 812px;
+
+/* uil:mouse-alt */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 659px;
+top: 812px;
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #307189;
+
+/* Polygon 4 */
+
+position: absolute;
+left: 46.94%;
+right: 52.64%;
+top: 26.96%;
+bottom: 72.85%;
+
+background: #307189;
+border-radius: 1px;
+transform: rotate(180deg);
+
+/* Rectangle 228 */
+
+position: absolute;
+width: 569px;
+height: 554px;
+left: 821px;
+top: 173px;
+
+background: #ffffff;
+/* Drop Shadow */
+box-shadow: 0px 4px 50px rgba(120, 143, 156, 0.25);
+border-radius: 50px;
+
+/* Welcome to Pop Rock Crystal Shop! */
+
+position: absolute;
+width: 707px;
+height: 123px;
+left: 50px;
+top: 244px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 65px;
+/* or 162% */
+
+color: #ffffff;
+
+/* Group 111 */
+
+position: absolute;
+width: 338px;
+height: 30px;
+left: 821px;
+top: 50px;
+
+/* Home */
+
+position: absolute;
+width: 45px;
+height: 30px;
+left: 821px;
+top: 50px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Shop */
+
+position: absolute;
+width: 39px;
+height: 30px;
+left: 916px;
+top: 50px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* About Us */
+
+position: absolute;
+width: 69px;
+height: 30px;
+left: 1005px;
+top: 50px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Help */
+
+position: absolute;
+width: 35px;
+height: 30px;
+left: 1124px;
+top: 50px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+display: flex;
+align-items: center;
+
+color: #ffffff;
+
+/* Here you will find unique phone accessories, crystals, jewelry and more. Free shipping inside the U.S. and our phone grips come with a limited warranty. Enjoy! */
+
+position: absolute;
+width: 400px;
+height: 72px;
+left: 50px;
+top: 407px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #31546d;
+
+/* Group 107 */
+
+position: absolute;
+width: 283px;
+height: 56px;
+left: 50px;
+top: 519px;
+
+/* Group 106 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 50px;
+top: 519px;
+
+/* Rectangle 229 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 50px;
+top: 519px;
+
+background: linear-gradient(90deg, #ffffff 0%, #f1faff 100%);
+box-shadow: 0px 20px 40px rgba(255, 255, 255, 0.15);
+border-radius: 18px;
+
+/* SHOP NOW */
+
+position: absolute;
+width: 89px;
+height: 24px;
+left: 96px;
+top: 535px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #317189;
+
+/* about us */
+
+position: absolute;
+width: 63px;
+height: 24px;
+left: 270px;
+top: 535px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #317189;
+
+/* Group 105 */
+
+position: absolute;
+width: 362px;
+height: 454px;
+left: 924px;
+top: 223px;
+
+/* Без имени-1 1 */
+
+position: absolute;
+width: 362px;
+height: 362px;
+left: 924px;
+top: 223px;
+
+background: url(Без имени-1.png);
+
+/* Crystal Agate Phone Grip - 18.99$ */
+
+position: absolute;
+width: 350px;
+height: 24px;
+left: 930px;
+top: 653px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #818181;
+
+/* Rectangle 230 */
+
+position: absolute;
+width: 120px;
+height: 2px;
+left: 1045px;
+top: 635px;
+
+/* Gray 6 */
+background: #f2f2f2;
+border-radius: 1px;
+
+/* Group 104 */
+
+position: absolute;
+width: 97px;
+height: 40px;
+left: 821px;
+top: 249px;
+
+/* Rectangle 231 */
+
+position: absolute;
+width: 97px;
+height: 40px;
+left: 821px;
+top: 249px;
+
+background: #8a93e6;
+border-radius: 0px 8px 8px 0px;
+
+/* New lot */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: 841px;
+top: 257px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #ffffff;
+
+/* Group 109 */
+
+position: absolute;
+width: 50px;
+height: 30px;
+left: 1340px;
+top: 50px;
+
+/* ion:basket */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1360px;
+top: 50px;
+
+/* Vector */
+
+position: absolute;
+left: 10.79%;
+right: 10.8%;
+top: 12.5%;
+bottom: 15.33%;
+
+background: #ffffff;
+
+/* Group 108 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1340px;
+top: 58px;
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1340px;
+top: 58px;
+
+background: #ff2b77;
+
+/* 00 */
+
+position: absolute;
+width: 12px;
+height: 8px;
+left: 1341px;
+top: 61px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 8px;
+line-height: 8px;
+/* identical to box height, or 100% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #ffffff;
+
+/* Group 110 */
+
+position: absolute;
+width: 199px;
+height: 64px;
+left: 50px;
+top: 30px;
+
+/* Pop Rock Crystal */
+
+position: absolute;
+width: 152px;
+height: 26px;
+left: 97px;
+top: 49px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height, or 130% */
+
+color: #ffffff;
+
+/* Frame */
+
+position: absolute;
+width: 37px;
+height: 64px;
+left: 50px;
+top: 30px;
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: -0.12%;
+top: 0%;
+bottom: -0.07%;
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: -0.12%;
+top: 0%;
+bottom: -0.07%;
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: -0.12%;
+top: 0%;
+bottom: -0.07%;
+
+background: #ffffff;
+
+/* Vector */
+
+position: absolute;
+left: 34.52%;
+right: 14%;
+top: 35.03%;
+bottom: 42.36%;
+
+background: #ffffff;
+
+/* Vector */
+
+position: absolute;
+left: 14.12%;
+right: 36.3%;
+top: 35.45%;
+bottom: 30.57%;
+
+background: #ffffff;
+
+/* Group 113 */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 978px;
+top: 762px;
+
+/* bi:arrow-left-square-fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 978px;
+top: 762px;
+
+filter: drop-shadow(0px 4px 6px rgba(138, 147, 229, 0.15));
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #8a93e5;
+
+/* bi:arrow-left-square-fill */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1232px;
+top: 762px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Group */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 0%;
+bottom: 0%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Vector */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 0%;
+bottom: 0%;
+
+background: #8a93e5;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Group 112 */
+
+position: absolute;
+width: 158px;
+height: 14px;
+left: 1026px;
+top: 767px;
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1026px;
+top: 767px;
+
+background: #8a93e5;
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1050px;
+top: 767px;
+
+background: #d7dbff;
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1074px;
+top: 767px;
+
+background: #d7dbff;
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1098px;
+top: 767px;
+
+background: #d7dbff;
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1122px;
+top: 767px;
+
+background: #d7dbff;
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1146px;
+top: 767px;
+
+background: #d7dbff;
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1170px;
+top: 767px;
+
+background: #d7dbff;
+
+/* Rectangle 232 */
+
+position: absolute;
+width: 1440px;
+height: 1084px;
+left: 0px;
+top: 900px;
+
+background: #ffffff;
+
+/* Group 106 */
+
+position: absolute;
+width: 134px;
+height: 48px;
+left: 653px;
+top: 2038px;
+
+/* Rectangle 229 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 134px;
+height: 48px;
+left: 653px;
+top: 2038px;
+
+background: #ffffff;
+box-shadow: 0px 20px 40px rgba(255, 255, 255, 0.15);
+border-radius: 18px;
+
+/* View All */
+
+position: absolute;
+width: 61px;
+height: 24px;
+left: 690px;
+top: 2050px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* 1 */
+background: linear-gradient(90deg, #75cceb 0%, #6fb4ff 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+/* Group 118 */
+
+position: absolute;
+width: 1340px;
+height: 854px;
+left: 50px;
+top: 1130px;
+
+/* Group 114 */
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 50px;
+top: 1130px;
+
+/* Rectangle 234 */
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 50px;
+top: 1130px;
+
+background: #ffffff;
+/* Drop Shadow */
+box-shadow: 0px 4px 50px rgba(120, 143, 156, 0.25);
+border-radius: 30px;
+
+/* Group 106 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 121px;
+top: 1446px;
+
+/* Rectangle 229 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 121px;
+top: 1446px;
+
+background: linear-gradient(90deg, #75cceb 0%, #6fb4ff 100%);
+box-shadow: 0px 10px 25px rgba(112, 184, 251, 0.45);
+border-radius: 18px;
+
+/* BUY NOW */
+
+position: absolute;
+width: 67px;
+height: 24px;
+left: 178px;
+top: 1462px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+text-align: center;
+
+color: #ffffff;
+
+/* Crystal Agate Phone Grip 18.99$ */
+
+position: absolute;
+width: 270px;
+height: 48px;
+left: 76px;
+top: 1378px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* or 120% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Gray 2 */
+color: #4f4f4f;
+
+/* Без имени-1 1 */
+
+position: absolute;
+width: 198px;
+height: 198px;
+left: 112px;
+top: 1160px;
+
+background: url(Без имени-1.png);
+
+/* Group 115 */
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 389px;
+top: 1130px;
+
+/* Rectangle 234 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 389px;
+top: 1130px;
+
+background: #ffffff;
+/* Gray 6 */
+border: 2px solid #f2f2f2;
+border-radius: 30px;
+
+/* Group 106 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 460px;
+top: 1446px;
+
+/* Rectangle 229 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 460px;
+top: 1446px;
+
+border-radius: 18px;
+
+/* BUY NOW */
+
+position: absolute;
+width: 67px;
+height: 24px;
+left: 517px;
+top: 1462px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+text-align: center;
+
+/* 1 */
+background: linear-gradient(90deg, #75cceb 0%, #6fb4ff 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+/* Crystal Agate Phone Grip 18.99$ */
+
+position: absolute;
+width: 270px;
+height: 48px;
+left: 415px;
+top: 1378px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* or 120% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Gray 2 */
+color: #4f4f4f;
+
+/* Без имени-1 1 */
+
+position: absolute;
+width: 198px;
+height: 198px;
+left: 451px;
+top: 1160px;
+
+background: url(Без имени-1.png);
+
+/* Group 118 */
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 50px;
+top: 1572px;
+
+/* Rectangle 234 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 50px;
+top: 1572px;
+
+background: #ffffff;
+/* Gray 6 */
+border: 2px solid #f2f2f2;
+border-radius: 30px;
+
+/* Group 106 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 121px;
+top: 1888px;
+
+/* Rectangle 229 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 121px;
+top: 1888px;
+
+border-radius: 18px;
+
+/* BUY NOW */
+
+position: absolute;
+width: 67px;
+height: 24px;
+left: 178px;
+top: 1904px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+text-align: center;
+
+/* 1 */
+background: linear-gradient(90deg, #75cceb 0%, #6fb4ff 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+/* Crystal Agate Phone Grip 18.99$ */
+
+position: absolute;
+width: 270px;
+height: 48px;
+left: 76px;
+top: 1820px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* or 120% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Gray 2 */
+color: #4f4f4f;
+
+/* Без имени-1 1 */
+
+position: absolute;
+width: 198px;
+height: 198px;
+left: 112px;
+top: 1602px;
+
+background: url(Без имени-1.png);
+
+/* Group 119 */
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 389px;
+top: 1572px;
+
+/* Rectangle 234 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 389px;
+top: 1572px;
+
+background: #ffffff;
+/* Gray 6 */
+border: 2px solid #f2f2f2;
+border-radius: 30px;
+
+/* Group 106 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 460px;
+top: 1888px;
+
+/* Rectangle 229 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 460px;
+top: 1888px;
+
+border-radius: 18px;
+
+/* BUY NOW */
+
+position: absolute;
+width: 67px;
+height: 24px;
+left: 517px;
+top: 1904px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+text-align: center;
+
+/* 1 */
+background: linear-gradient(90deg, #75cceb 0%, #6fb4ff 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+/* Crystal Agate Phone Grip 18.99$ */
+
+position: absolute;
+width: 270px;
+height: 48px;
+left: 415px;
+top: 1820px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* or 120% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Gray 2 */
+color: #4f4f4f;
+
+/* Без имени-1 1 */
+
+position: absolute;
+width: 198px;
+height: 198px;
+left: 451px;
+top: 1602px;
+
+background: url(Без имени-1.png);
+
+/* Group 120 */
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 728px;
+top: 1572px;
+
+/* Rectangle 234 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 728px;
+top: 1572px;
+
+background: #ffffff;
+/* Gray 6 */
+border: 2px solid #f2f2f2;
+border-radius: 30px;
+
+/* Group 106 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 799px;
+top: 1888px;
+
+/* Rectangle 229 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 799px;
+top: 1888px;
+
+border-radius: 18px;
+
+/* BUY NOW */
+
+position: absolute;
+width: 67px;
+height: 24px;
+left: 856px;
+top: 1904px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+text-align: center;
+
+/* 1 */
+background: linear-gradient(90deg, #75cceb 0%, #6fb4ff 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+/* Crystal Agate Phone Grip 18.99$ */
+
+position: absolute;
+width: 270px;
+height: 48px;
+left: 754px;
+top: 1820px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* or 120% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Gray 2 */
+color: #4f4f4f;
+
+/* Без имени-1 1 */
+
+position: absolute;
+width: 198px;
+height: 198px;
+left: 790px;
+top: 1602px;
+
+background: url(Без имени-1.png);
+
+/* Group 121 */
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 1068px;
+top: 1572px;
+
+/* Rectangle 234 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 1068px;
+top: 1572px;
+
+background: #ffffff;
+/* Gray 6 */
+border: 2px solid #f2f2f2;
+border-radius: 30px;
+
+/* Group 106 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 1139px;
+top: 1888px;
+
+/* Rectangle 229 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 1139px;
+top: 1888px;
+
+border-radius: 18px;
+
+/* BUY NOW */
+
+position: absolute;
+width: 67px;
+height: 24px;
+left: 1196px;
+top: 1904px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+text-align: center;
+
+/* 1 */
+background: linear-gradient(90deg, #75cceb 0%, #6fb4ff 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+/* Crystal Agate Phone Grip 18.99$ */
+
+position: absolute;
+width: 270px;
+height: 48px;
+left: 1094px;
+top: 1820px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* or 120% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Gray 2 */
+color: #4f4f4f;
+
+/* Без имени-1 1 */
+
+position: absolute;
+width: 198px;
+height: 198px;
+left: 1130px;
+top: 1602px;
+
+background: url(Без имени-1.png);
+
+/* Group 116 */
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 728px;
+top: 1130px;
+
+/* Rectangle 234 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 728px;
+top: 1130px;
+
+background: #ffffff;
+/* Gray 6 */
+border: 2px solid #f2f2f2;
+border-radius: 30px;
+
+/* Group 106 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 799px;
+top: 1446px;
+
+/* Rectangle 229 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 799px;
+top: 1446px;
+
+border-radius: 18px;
+
+/* BUY NOW */
+
+position: absolute;
+width: 67px;
+height: 24px;
+left: 856px;
+top: 1462px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+text-align: center;
+
+/* 1 */
+background: linear-gradient(90deg, #75cceb 0%, #6fb4ff 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+/* Crystal Agate Phone Grip 18.99$ */
+
+position: absolute;
+width: 270px;
+height: 48px;
+left: 754px;
+top: 1378px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* or 120% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Gray 2 */
+color: #4f4f4f;
+
+/* Без имени-1 1 */
+
+position: absolute;
+width: 198px;
+height: 198px;
+left: 790px;
+top: 1160px;
+
+background: url(Без имени-1.png);
+
+/* Group 117 */
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 1068px;
+top: 1130px;
+
+/* Rectangle 234 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 412px;
+left: 1068px;
+top: 1130px;
+
+background: #ffffff;
+/* Gray 6 */
+border: 2px solid #f2f2f2;
+border-radius: 30px;
+
+/* Group 106 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 1139px;
+top: 1446px;
+
+/* Rectangle 229 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 1139px;
+top: 1446px;
+
+border-radius: 18px;
+
+/* BUY NOW */
+
+position: absolute;
+width: 67px;
+height: 24px;
+left: 1196px;
+top: 1462px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+text-align: center;
+
+/* 1 */
+background: linear-gradient(90deg, #75cceb 0%, #6fb4ff 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+/* Crystal Agate Phone Grip 18.99$ */
+
+position: absolute;
+width: 270px;
+height: 48px;
+left: 1094px;
+top: 1378px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* or 120% */
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+/* Gray 2 */
+color: #4f4f4f;
+
+/* Без имени-1 1 */
+
+position: absolute;
+width: 198px;
+height: 198px;
+left: 1130px;
+top: 1160px;
+
+background: url(Без имени-1.png);
+
+/* All product */
+
+position: absolute;
+width: 245px;
+height: 50px;
+left: 597px;
+top: 950px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 50px;
+/* identical to box height, or 109% */
+text-align: center;
+
+color: #31546d;
+
+/* Rectangle 233 */
+
+position: absolute;
+width: 58px;
+height: 4px;
+left: 691px;
+top: 1016px;
+
+/* Gray 6 */
+background: #f2f2f2;
+border-radius: 24px;
+
+/* Group 119 */
+
+position: absolute;
+width: 157px;
+height: 30px;
+left: 319px;
+top: 1050px;
+
+/* Sort: */
+
+position: absolute;
+width: 38px;
+height: 30px;
+left: 319px;
+top: 1050px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+display: flex;
+align-items: center;
+
+color: #9ab0c0;
+
+/* Best Selling */
+
+position: absolute;
+width: 89px;
+height: 30px;
+left: 367px;
+top: 1050px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+display: flex;
+align-items: center;
+
+color: #31546d;
+
+/* Polygon 5 */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 476px;
+top: 1070px;
+
+background: #31546d;
+border-radius: 1px;
+transform: rotate(180deg);
+
+/* Group 120 */
+
+position: absolute;
+width: 169px;
+height: 30px;
+left: 50px;
+top: 1050px;
+
+/* Filter: */
+
+position: absolute;
+width: 45px;
+height: 30px;
+left: 50px;
+top: 1050px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+display: flex;
+align-items: center;
+
+color: #9ab0c0;
+
+/* All Products */
+
+position: absolute;
+width: 94px;
+height: 30px;
+left: 105px;
+top: 1050px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+/* identical to box height, or 188% */
+display: flex;
+align-items: center;
+
+color: #31546d;
+
+/* Polygon 5 */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 219px;
+top: 1070px;
+
+background: #31546d;
+border-radius: 1px;
+transform: rotate(-180deg);
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 744px;
+height: 744px;
+left: 733px;
+top: 2099px;
+
+background: #ffffff;
+opacity: 0.2;
+
+/* Ellipse 11 */
+
+position: absolute;
+width: 570px;
+height: 570px;
+left: 820px;
+top: 2186px;
+
+background: #ffffff;
+/* Drop Shadow */
+box-shadow: 0px 4px 50px rgba(120, 143, 156, 0.25);
+
+/* Ellipse 10 */
+
+position: absolute;
+width: 364px;
+height: 364px;
+left: 923px;
+top: 2289px;
+
+background: #ffffff;
+/* Drop Shadow */
+box-shadow: 0px 4px 50px rgba(120, 143, 156, 0.25);
+
+/* Без имени-1 2 */
+
+position: absolute;
+width: 248px;
+height: 248px;
+left: 981px;
+top: 2347px;
+
+background: url(Без имени-1.png);
+
+/* Group 124 */
+
+position: absolute;
+width: 542px;
+height: 444px;
+left: 212px;
+top: 2249px;
+
+/* Group 122 */
+
+position: absolute;
+width: 542px;
+height: 348px;
+left: 212px;
+top: 2249px;
+
+/* These Pop Rock Crystal grip tops can be swapped with other tops depending on your mood, outfit, nails, phone case, holiday, etc.! Just gently squeeze the sides to remove and swap out with another color or design! */
+
+position: absolute;
+width: 400px;
+height: 96px;
+left: 354px;
+top: 2501px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: right;
+
+color: #31546d;
+
+/* 19.50$ */
+
+position: absolute;
+width: 216px;
+height: 89px;
+left: 538px;
+top: 2402px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 89px;
+/* identical to box height */
+text-align: center;
+
+color: #e35b3e;
+
+/* 44.50$ */
+
+position: absolute;
+width: 77px;
+height: 30px;
+left: 441px;
+top: 2432px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+text-align: center;
+text-decoration-line: line-through;
+
+color: #41a0b7;
+
+/* BEST PRICE Agate Phone Grip */
+
+position: absolute;
+width: 542px;
+height: 123px;
+left: 212px;
+top: 2249px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 65px;
+/* or 162% */
+text-align: right;
+
+color: #31546d;
+
+/* Group 123 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 574px;
+top: 2637px;
+
+/* Rectangle 229 */
+
+position: absolute;
+width: 180px;
+height: 56px;
+left: 574px;
+top: 2637px;
+
+/* 1 */
+background: linear-gradient(90deg, #75cceb 0%, #6fb4ff 100%);
+border-radius: 18px;
+
+/* BUY NOW */
+
+position: absolute;
+width: 77px;
+height: 24px;
+left: 626px;
+top: 2653px;
+
+font-family: "Google Sans";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #ffffff;
+
+/* Rectangle 235 */
+
+position: absolute;
+width: 1440px;
+height: 269px;
+left: 0px;
+top: 2884px;
+
+background: rgba(10, 41, 77, 0.8);
